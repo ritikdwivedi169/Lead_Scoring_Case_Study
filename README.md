@@ -1,1 +1,10 @@
 # Lead_Scoring_Case_Study
+Lead Scoring Case Study
+Problem Statement:
+We are given with the problem statement that there is an e-learning based company "X Education" which provides digital courses and education materials for learners who are already industry professionals or working in some other company. On a certain day, a considerable amount of working professionals land on their website in search of a course to explore and checkout the content and other things X Education offers.
+
+The company does advertisements and webinars on various online platforms to make individuals land on their website for purchasing a course or fill a form for a connect with a member from support team for guidance or watch some videos. At this point when they provide their contact number, email then they are characterized to be a lead. Also X Education gets some of the leads from the past references or referrals. Following these things the support team reaches out to them by calls, emails to convert them to be their customer. But somehow most of the leads do not get converted and a typical conversion rate is said to be approximately 30% of the total leads. Means, out of every 100 leads, only 30 become their students. So, we can say that the conversion rate currently is poor. To make this process more proficient X Education plans to pinpoint the most potential leads as "Hot Leads" to boost the conversion rate and support team will focus more on these leads for contacting rather than contacting everyone.
+
+X Education has offered us to develop a logistic regression model for assigning a lead score for every lead. We need to assign a lead score between 0 to 100 for every lead with 0 being the least probaility of getting converted and 100 being the hot lead or the higher probability of getting converted. As specified by the CEO the aim is conversion rate of around 80%.
+
+We are provided with the dataset of around 9000 past leads which consists of different variables like lead source, total visits, last activity, etc and target variable "Converted" with value 0 as not converted and 1 as converted.
